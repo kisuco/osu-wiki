@@ -28,14 +28,14 @@ La coupe du monde de osu! est un tournoi à double élimination par équipe de 4
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
 | --- | --- | --- | --- | --- | --- |
-| [2011 Taiko World Cup](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Taïwan | ![][flag_JP] Japon | ![][flag_CN] Chine |
+| [Taiko World Cup 2011](/wiki/Tournaments/TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Taïwan | ![][flag_JP] Japon | ![][flag_CN] Chine |
 | [Taiko World Cup 2012](/wiki/Tournaments/TWC/2012) | 2012-02-03 | 2012-04-01 | ![][flag_JP] Japon A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japon B |
-| [Taiko World Cup \#3](/wiki/Tournaments/TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] Taïwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japon A |
+| [Taiko World Cup #3](/wiki/Tournaments/TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] Taïwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japon A |
 | [osu! Taiko World Cup 2014](/wiki/Tournaments/TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] Japon | ![][flag_HK] Hong Kong | ![][flag_FR] France |
-| [osu!taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] Japon | ![][flag_TW] Taïwan | ![][flag_FR] France |
+| [osu! Taiko World Cup 2015](/wiki/Tournaments/TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] Japon | ![][flag_TW] Taïwan | ![][flag_FR] France |
 | [osu!taiko World Cup 2016](/wiki/Tournaments/TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] Japon | ![][flag_TW] Taïwan | ![][flag_CA] Canada |
 | [osu!taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] Japon | ![][flag_TW] Taïwan | ![][flag_HK] Hong Kong |
-| [osu!taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2017-05-13 | ![][flag_JP] Japon | ![][flag_TW] Taïwan | ![][flag_CA] Canada |
+| [osu!taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2018-05-13 | ![][flag_JP] Japon | ![][flag_TW] Taïwan | ![][flag_CA] Canada |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -196,7 +196,7 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | [Catch French Cup 2](/wiki/Tournaments/CFC/2) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
 | [Catch French Cup 3](/wiki/Tournaments/CFC/3) | 2018-09-08 | 2018-10-20 | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
 | [Catch French Intermediate Cup](/wiki/Tournaments/CFC/CFIC_1) | 2019-03-01 | 2019-03-31 | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
-| [Catch French Cup 4](/wiki/Tournaments/CFC/4) | 2019-03-30 | 2019-05-11 | - | - | - |
+| [Catch French Cup 4](/wiki/Tournaments/CFC/4) | 2019-03-30 | 2019-04-28 | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 
 ### ![](/wiki/shared/mode/catch.png) Catch the Beat Indonesia Cup
 
@@ -250,6 +250,12 @@ Tournois/Compétitions non officiels organisés par la communauté.
 | osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ![][flag_PH] [Niro-](https://osu.ppy.sh/users/6443899)(osu!mania 4K), ![][flag_PH] [Dadots](https://osu.ppy.sh/users/3525251)(osu!mania 7K) | ![][flag_AU] [scissorsf](https://osu.ppy.sh/users/6378800)(osu!mania 4K), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512)(osu!mania 7K) | ![][flag_PH] [Jsee](https://osu.ppy.sh/users/6573652)(osu!mania 4K), ![][flag_PH] [SanniSanni](https://osu.ppy.sh/users/3036686)(osu!mania 7K) |
 | [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018) | 2018-04-14 | 2018-06-17 | ![][flag_CA] [Dunois](https://osu.ppy.sh/users/4581715)(osu!), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103)(osu!catch), ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439)(osu!mania 4K), ![][flag_PH] [cieloday05](https://osu.ppy.sh/users/2722489)(osu!mania 7K) | ![][flag_PH] [-Marika](https://osu.ppy.sh/users/2199427)(osu!), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935)(osu!catch), ![][flag_PH] [exodia3000](https://osu.ppy.sh/users/10500797)(osu!mania 4K), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(osu!mania 7K) | ![][flag_PH] [Varsagus](https://osu.ppy.sh/users/3885723)(osu!), ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(osu!), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093)(osu!catch), ![][flag_PH] [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(osu!mania 4K), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936)(osu!mania 7K) |
 
+### ![](/wiki/shared/mode/mania.png) osu!mania LN Tournament
+
+| Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
+| --- | --- | --- | --- | --- | --- |
+| [osu!mania LN Tournament](/wiki/Tournaments/o!mLN/1) | 2019-03-23 | 2019-05-04 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) | ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035) |
+
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/mania.png) DeltaMax's Tournaments
 
 | Nom | Début | Fin | ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") |
@@ -279,9 +285,9 @@ Tournois/Compétitions non officiels organisés par la communauté.
 Voir aussi
 --------
 
--   [Modèle pour les articles sur les tournois](/wiki/Tournaments/Template)
--   [Liste des pays qui ont participés dans des tournois d'osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
--   [osu!tourney](/wiki/osu!tourney) (Client utilisé pour le streaming de tournoi)
+- [Modèle pour les articles sur les tournois](/wiki/Tournaments/Template)
+- [Liste des pays qui ont participés dans des tournois d'osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
+- [osu!tourney](/wiki/osu!tourney) (Client utilisé pour le streaming de tournoi)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif

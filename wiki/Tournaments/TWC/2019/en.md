@@ -88,83 +88,176 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 
 -----------------------
 
-## Match Schedule: Round of 16
+## Match Schedule: Semifinals
 
-### Saturday, 27. April 2019
+### Saturday, 11. May 2019
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | :-: | :-: | :-- | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_GB] | United Kingdom | **12:30 UTC** | 21:30 UTC+09 | 13:30 UTC+01 |
-| Poland | ![][flag_PL] | ![][flag_ES] | Spain | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
-| Canada | ![][flag_CA] | ![][flag_IT] | Italy | **16:00 UTC** | 12:00 UTC-04 | 18:00 UTC+02 |
-| Germany | ![][flag_DE] | ![][flag_BR] | Brazil | **17:30 UTC** | 19:30 UTC+02 | 14:30 UTC-03 |
-| Chile | ![][flag_CL] | ![][flag_US] | United States | **19:00 UTC** | 15:00 UTC-04 | 15:00 UTC-04 |
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
+| Australia | ![][flag_AU] | ![][flag_PL] | Poland | **11:00 UTC** | 21:00 UTC+10 | 13:00 UTC+02 | ² |
+| Spain | ![][flag_ES] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 | ² |
+| Germany | ![][flag_DE] | ![][flag_CA] | Canada | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 | ² |
+| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | **19:00 UTC** | 20:00 UTC+01 | 16:00 UTC-03 | ² |
 
-### Sunday, 28. April 2019
+### Sunday, 12. May 2019
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | :-: | :-: | :-- | :-: | :-: | :-: |
-| Australia | ![][flag_AU] | ![][flag_HK] | Hong Kong | **10:00 UTC** | 21:00 UTC+11 | 18:00 UTC+08 |
-| Singapore | ![][flag_SG] | ![][flag_TW] | Taiwan | **11:30 UTC** | 19:30 UTC+08 | 19:30 UTC+08 |
-| Japan | ![][flag_JP] | ![][flag_FR] | France | **13:00 UTC** | 22:00 UTC+09 | 15:00 UTC+02 |
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| --: | :-: | :-: | :-- | :-: | :-: | :-: | :-: |
+| Canada | ![][flag_CA] | ![][flag_AU] | Australia | **1:00 UTC** | 21:00 (Sat) UTC-04 | 11:00 UTC+10 | ³ |
+| United States | ![][flag_US] | ![][flag_TW] | Taiwan | **3:00 UTC** | 23:00 (Sat) UTC-04 | 11:00 UTC+08 | ¹ |
+| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **10:00 UTC** | 19:00 UTC+09 | 19:00 UTC+09 | ¹ |
+| Germany | ![][flag_DE] | ![][flag_AU] | Australia | **12:00 UTC** | 14:00 UTC+02 | 22:00 UTC+10 | ³ |
+| Hong Kong | ![][flag_HK] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 | ³ |
+| Hong Kong | ![][flag_HK] | ![][flag_BR] | Brazil | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 | ³ |
+| Spain | ![][flag_ES] | ![][flag_GB] | United Kingdom | **14:00 UTC** | 16:00 UTC+02 | 15:00 UTC+01 | ³ |
+| Spain | ![][flag_ES] | ![][flag_BR] | Brazil | **14:00 UTC** | 16:00 UTC+02 | 11:00 UTC-03 | ³ |
+| Germany | ![][flag_DE] | ![][flag_PL] | Poland | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 | ³ |
+| Canada | ![][flag_CA] | ![][flag_PL] | Poland | **16:00 UTC** | 12:00 UTC-04 | 18:00 UTC+02 | ³ |
+
+¹ Winner bracket encounter
+
+² Loser bracket encounter
+
+³ Encounter dependent on results of ²Loser bracket encounter
 
 -----------------------
 
 ## Mappools
 
+### Semifinals
+
+- NoMod
+  - [w\_tre respect for AT&HU - Schur's Theorem (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/817767#taiko/1714808)
+  - [Chroma - I (-xNaCLx-) \[-xN.taiCLx-\]](https://osu.ppy.sh/beatmapsets/781719#taiko/1641698)
+  - [t+pazolite - Good Night, Bad Luck (JUDYDANNY) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/675101#taiko/1633890)
+  - [An - Cochma (SKSalt) \[Evil Oni\]](https://osu.ppy.sh/beatmapsets/438670#taiko/944237)
+  - [Kobaryo - Kumo no Kireme \[feat. Kourin.\] (Sayaka-) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/370678#taiko/930954)
+  - [Creo - Challenger (tasuke912) \[Taiko Challenge <OD7\>\]](https://osu.ppy.sh/beatmapsets/952000#taiko/2015923)
+- Hidden
+  - [Frums - memoryfactory.lzh (Nifty) \[DEFLATE.zip\]](https://osu.ppy.sh/beatmapsets/761900#taiko/1601977)
+  - [Igorrr - Cicadidae (OnosakiHito) \[Oni\]](https://osu.ppy.sh/beatmapsets/672412#taiko/1421418)
+- HardRock
+  - [onoken - ZADAMGA (agu) \[Fatale Oni\]](https://osu.ppy.sh/beatmapsets/458476#taiko/1026948)
+  - [Fleshgod Apocalypse - The Fool (LZD) \[Stamina Thief\]](https://osu.ppy.sh/beatmapsets/442451#taiko/965433)
+- DoubleTime
+  - [Kit Morgan - Mind The Gaps (mangomizer) \[Gaps\]](https://osu.ppy.sh/beatmapsets/912483#taiko/1906148)
+  - [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Climbb's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/30128#taiko/105917)
+- FreeMod
+  - [Akhuta - Mira (HiroK) \[Ultra Midnight Madness\]](https://osu.ppy.sh/beatmapsets/861655#taiko/1807848)
+  - [Igorrr & Ruby My Dear - Alain (Raiden) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/924643#taiko/1931300)
+  - [WAiKURO - Androgynos (Jaye) \[Divine Revelation\]](https://osu.ppy.sh/beatmapsets/711008#taiko/1503133)
+- Tiebreaker
+  - **[Deftones - Knife Party (Final Sketch Remix) (-Kazu-) \[Dysthymia\]](https://osu.ppy.sh/beatmapsets/801653#taiko/1849377)**
+
+### Quarterfinals
+
+- NoMod
+  - [Nekomata Master - Far east nightbird (-\[ ix Ishida xi \]-) \[-\[ ix Taiko xi \]-\]](https://osu.ppy.sh/beatmapsets/856606#taiko/1789566)
+  - [xi - Glorious Crown (asuasu\_yura) \[Special\]](https://osu.ppy.sh/beatmapsets/806381#taiko/1692612)
+  - [Toby Fox - Ruins (sasakure.UK Remix) (HiroK) \[Golden Flowers\]](https://osu.ppy.sh/beatmapsets/790685#taiko/1659016)
+  - [tarolabo - NijiBishox1HadairoSenjoSenjo (Nyan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/328741#taiko/751051)
+  - [t+pazolite - Sugar-Glazed Madness (cdhsausageboy) \[Toffee-Wrapped Craziness\]](https://osu.ppy.sh/beatmapsets/958022#taiko/2016360)
+- Hidden
+  - [MiddleIsland - Lilac (Fraolinch) \[Taikorchestra\]](https://osu.ppy.sh/beatmapsets/87610#taiko/239432)
+  - [Chroma - Sayonara Planet Wars (Greenshell) \[Constellation\]](https://osu.ppy.sh/beatmapsets/765430#taiko/1609344)
+- HardRock
+  - [Sakuzyo - Lie (komasy) \[False\]](https://osu.ppy.sh/beatmapsets/920188#taiko/1921771)
+  - [Brymir - Pantheon Of Forsaken Gods (DarkVortex) \[Vengeful Oni\]](https://osu.ppy.sh/beatmapsets/706563#taiko/1810057)
+- DoubleTime
+  - [q/stol - LOVE THIS MOMENT (tasuke912) \[\_yu68's Oni\]](https://osu.ppy.sh/beatmapsets/959704#taiko/2009319)
+  - [cillia - Fairytale, (mintong89) \[Taiko\]](https://osu.ppy.sh/beatmapsets/275331#taiko/624447)
+- FreeMod
+  - [Rainbowdragoneyes - The Rift (Mew104) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/445365#taiko/1489206)
+  - [PrimeMIX - Uber 6 (snowball112) \[Corn\'s Hell Oni\]](https://osu.ppy.sh/beatmapsets/332051#taiko/738870)
+  - [Camellia - Tornado (Nofool) \[Irma\]](https://osu.ppy.sh/beatmapsets/666923#taiko/1411326)
+- Tiebreaker
+  - **[RYUWAVE - ROLLING PANDEMONIUM (Ata Remix) (Ulqui) \[Myckoll & Ulqui\'s Final Stage\]](https://osu.ppy.sh/beatmapsets/609609#taiko/1287349)**
+
 ### Round of 16
 
 - NoMod
-  - [Snail's House - Balloons \(KinomiCandy\) \[plastic thoughts\]](https://osu.ppy.sh/beatmapsets/586316#taiko/1241741)
-  - [PROTODOME - Excuuuuuuuse Me, Princess (Princess Zelda's Rescue) \(karterfreak\) \[Oni\]](https://osu.ppy.sh/beatmapsets/822044#taiko/1722921)
-  - [Akhuta - Ludus In Tenebris \(Nyan\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/443065#taiko/952713)
-  - [Helblinde - Grief & Malice \(Rhytoly\) \[Madoku & Homura\]](https://osu.ppy.sh/beatmapsets/782253#taiko/1753070)
-  - [Camellia feat. Nanahira - PAPAYAPA BASS \(Nwolf\) \[KATKATDONKAT\]](https://osu.ppy.sh/beatmapsets/584714#taiko/1237040)
+  - [Snail's House - Balloons (KinomiCandy) \[plastic thoughts\]](https://osu.ppy.sh/beatmapsets/586316#taiko/1241741)
+  - [PROTODOME - Excuuuuuuuse Me, Princess (Princess Zelda's Rescue) (karterfreak) \[Oni\]](https://osu.ppy.sh/beatmapsets/822044#taiko/1722921)
+  - [Akhuta - Ludus In Tenebris (Nyan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/443065#taiko/952713)
+  - [Helblinde - Grief & Malice (Rhytoly) \[Madoku & Homura\]](https://osu.ppy.sh/beatmapsets/782253#taiko/1753070)
+  - [Camellia feat. Nanahira - PAPAYAPA BASS (Nwolf) \[KATKATDONKAT\]](https://osu.ppy.sh/beatmapsets/584714#taiko/1237040)
 - Hidden
-  - [Project B- - Sarutobi Champion no Sessha \(Charlotte\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/821700#taiko/1722197)
-  - [The Ghost of 3.13 - Forgotten \(Mismagius\) \[PhNyx's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/55560#taiko/168807)
+  - [Project B- - Sarutobi Champion no Sessha (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/821700#taiko/1722197)
+  - [The Ghost of 3.13 - Forgotten (Mismagius) \[PhNyx's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/55560#taiko/168807)
 - HardRock
-  - [Porno Graffiti - The Day feat. Aruvn (dj-Jo Remix) Extended Version \(Chromoxx\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/693174#taiko/1466716)
-  - [USAO - Miracle 5ympho X \(Mel\) \[Gezo's Giga Oni\]](https://osu.ppy.sh/beatmapsets/137394#taiko/486191)
+  - [Porno Graffiti - The Day feat. Aruvn (dj-Jo Remix) Extended Version (Chromoxx) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/693174#taiko/1466716)
+  - [USAO - Miracle 5ympho X (Mel) \[Gezo's Giga Oni\]](https://osu.ppy.sh/beatmapsets/137394#taiko/486191)
 - DoubleTime
-  - [DJ Fresh - Gold Dust \(Pheon\) \[Phedondon\]](https://osu.ppy.sh/beatmapsets/784342#taiko/1646826)
-  - [VY1 - Cyber Thunder Cider \(tutuhaha\) \[Sp3's Taiko\]](https://osu.ppy.sh/beatmapsets/47146#taiko/146915)
+  - [DJ Fresh - Gold Dust (Pheon) \[Phedondon\]](https://osu.ppy.sh/beatmapsets/784342#taiko/1646826)
+  - [VY1 - Cyber Thunder Cider (tutuhaha) \[Sp3's Taiko\]](https://osu.ppy.sh/beatmapsets/47146#taiko/146915)
 - FreeMod
-  - [Minako Adachi - Battle! (Team Skull Boss) \[feat. KYOtara\] \(Zetera\) \[Beast Guzma Oni\]](https://osu.ppy.sh/beatmapsets/784760#taiko/1647504)
-  - [lapix - YOLO ft. Numb\'n\'dub \(Arrival\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/723229#taiko/1526616)
-  - [Dark PHOENiX - Ryokugan no Jealousy \(Jounzan\) \[31's Oni\]](https://osu.ppy.sh/beatmapsets/382455#taiko/849236)
+  - [Minako Adachi - Battle! (Team Skull Boss) \[feat. KYOtara\] (Zetera) \[Beast Guzma Oni\]](https://osu.ppy.sh/beatmapsets/784760#taiko/1647504)
+  - [lapix - YOLO ft. Numb\'n\'dub (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/723229#taiko/1526616)
+  - [Dark PHOENiX - Ryokugan no Jealousy (Jounzan) \[31's Oni\]](https://osu.ppy.sh/beatmapsets/382455#taiko/849236)
 - Tiebreaker
-  - **[xi - Double Helix \(Loopy542\) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/763343#taiko/1605065)**
+  - **[xi - Double Helix (Loopy542) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/763343#taiko/1605065)**
 
 ### Group Stage
 
 - NoMod
-  - [Venetian Snares - Szamar Madar \(Xay\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/685785#taiko/1451660)
-  - [Morimori Atsushi + Verdammt - Le Fruit Defendu \(KitajimaYN\) \[Offensive\]](https://osu.ppy.sh/beatmapsets/808011#taiko/1695684)
-  - [MiddleIsland - Delrio \(Nwolf\) \[Mountainside River\]](https://osu.ppy.sh/beatmapsets/917573#taiko/1916185)
-  - [Warak - Cosmic Invaders \(Lno\) \[Oni v2\]](https://osu.ppy.sh/beatmapsets/765624#taiko/1978335)
+  - [Venetian Snares - Szamar Madar (Xay) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/685785#taiko/1451660)
+  - [Morimori Atsushi + Verdammt - Le Fruit Defendu (KitajimaYN) \[Offensive\]](https://osu.ppy.sh/beatmapsets/808011#taiko/1695684)
+  - [MiddleIsland - Delrio (Nwolf) \[Mountainside River\]](https://osu.ppy.sh/beatmapsets/917573#taiko/1916185)
+  - [Warak - Cosmic Invaders (Lno) \[Oni v2\]](https://osu.ppy.sh/beatmapsets/765624#taiko/1978335)
 - Hidden
-  - [Nippon Gakuon Noise Kyoukai - Igomoyos=Omul no Thema ni yoru Buyobuyo Sketch no Kokoromi \(uone\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690019#taiko/1460471)
-  - [Shano x 40mP - Sanpo Michi \(mintong89\) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/62991#taiko/186452)
+  - [Nippon Gakuon Noise Kyoukai - Igomoyos=Omul no Thema ni yoru Buyobuyo Sketch no Kokoromi (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690019#taiko/1460471)
+  - [Shano x 40mP - Sanpo Michi (mintong89) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/62991#taiko/186452)
 - HardRock
-  - [dj MAX STEROID - Arabian Rave Night \(Ascendance\) \[Ozzy's Tatsujin\]](https://osu.ppy.sh/beatmapsets/592980#taiko/1254592)
-  - [Dirty Androids - Egret and Willow \(Nifty\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/821745#taiko/1722353)
+  - [dj MAX STEROID - Arabian Rave Night (Ascendance) \[Ozzy's Tatsujin\]](https://osu.ppy.sh/beatmapsets/592980#taiko/1254592)
+  - [Dirty Androids - Egret and Willow (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/821745#taiko/1722353)
 - DoubleTime
-  - [M2U - Gypsy Tronic \(Gomo Pslvarh\) \[lepidon! - Oni\]](https://osu.ppy.sh/beatmapsets/100445#taiko/279410)
-  - [ClariS - Surely \(JUDYDANNY\) \[Oni\]](https://osu.ppy.sh/beatmapsets/170359#taiko/412493)
+  - [M2U - Gypsy Tronic (Gomo Pslvarh) \[lepidon! - Oni\]](https://osu.ppy.sh/beatmapsets/100445#taiko/279410)
+  - [ClariS - Surely (JUDYDANNY) \[Oni\]](https://osu.ppy.sh/beatmapsets/170359#taiko/412493)
 - FreeMod
-  - [CyoucyoP feat.Hatsune Miku - End of the World \(TKS\) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/215476#taiko/506018)
-  - [cYsmix - Classic Pursuit \(Hanjamon\) \[Cursed Oni\]](https://osu.ppy.sh/beatmapsets/373254#taiko/817648)
-  - [S3RL feat Harri Rush - Nostalgic \(Nightcore Mix\) \(nold\_1702\) \[Nardo's Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/591442#taiko/1282805)
+  - [CyoucyoP feat.Hatsune Miku - End of the World (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/215476#taiko/506018)
+  - [cYsmix - Classic Pursuit (Hanjamon) \[Cursed Oni\]](https://osu.ppy.sh/beatmapsets/373254#taiko/817648)
+  - [S3RL feat Harri Rush - Nostalgic (Nightcore Mix) (nold\_1702) \[Nardo's Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/591442#taiko/1282805)
 - Tiebreaker
-  - **[Laur - Sound Chimera \(yea\) \[Cosmic Minds\]](https://osu.ppy.sh/beatmapsets/779916#taiko/1637636)**
+  - **[Laur - Sound Chimera (yea) \[Cosmic Minds\]](https://osu.ppy.sh/beatmapsets/779916#taiko/1637636)**
 
 ## Match Results
+
+### Quarterfinals
+
+| Saturday, 2019-05-04 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Australia** ![][flag_AU] | **6** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/51512356) |
+| **Taiwan** ![][flag_TW] | **6** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/51517084) |
+| **Spain** ![][flag_ES] | **6** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/51525608) |
+| **United Kingdom** ![][flag_GB] | **6** | 3 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/51528799) |
+| **Germany** ![][flag_DE] | **6** | 5 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/51531420) |
+| **United States** ![][flag_US] | **6** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/51534760) |
+
+| Sunday, 2019-05-05 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Canada ![][flag_CA] | 2 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51542733) |
+| Poland ![][flag_PL] | 1 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/51552462) |
+
+### Round of 16
+
+| Saturday, 2019-04-27 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/51329705) |
+| **Poland** ![][flag_PL] | **6** | 3 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/51332255) |
+| **Canada** ![][flag_CA] | **6** | 1 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/51336461) |
+| Germany ![][flag_DE] | 2 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/51339196) |
+| Chile ![][flag_CL] | 2 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/51342269) |
+
+| Sunday, 2019-04-28 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Australia ![][flag_AU] | 3 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/51359304) |
+| Singapore ![][flag_SG] | 1 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/51361043) |
+| **Japan** ![][flag_JP] | **6** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/51363192) |
 
 ### Group Stage
 
 | Saturday, 2019-04-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | 3 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/51149005) |
 | New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51149009) |
 | Indonesia ![][flag_ID] | 0 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/51148772) |
@@ -189,7 +282,7 @@ The osu!taiko World Cup 2019 is run by various community members by distributing
 | Netherlands ![][flag_NL] | 2 | **5** | ![][flag_VE] **Venezuela** | [#1](https://osu.ppy.sh/community/matches/51166257) |
 
 | Sunday, 2019-04-21 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/51171557) |
 | Argentina ![][flag_AR] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/51171569) |
 | Chile ![][flag_CL] | 4 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51172513) |
